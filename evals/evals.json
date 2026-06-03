@@ -1,0 +1,23 @@
+{
+  "skill_name": "se-cd-iron-plaque-research-radar",
+  "evals": [
+    {
+      "id": 1,
+      "prompt": "帮我查最近两周 Se-Cd-iron plaque 水稻方向的新论文，给我周报。",
+      "expected_output": "A Chinese weekly radar report with verified recent sources, ranked findings, main-line vs adjacent labels, scores, top picks, research ideas, and reading queue. It should prioritize rice Se-Cd-Fe iron plaque work and avoid drifting into unrelated plant molecular biology or food processing.",
+      "files": []
+    },
+    {
+      "id": 2,
+      "prompt": "深挖一篇 SynCom 降镉促生水稻论文，转成我的实验设计启发。",
+      "expected_output": "A paper deep dive that explains the SynCom design, experimental system, indicators, limitations, transfer path to Se-Cd-Fe iron plaque rice research, proposed treatments, mandatory measurements, and fallback options.",
+      "files": []
+    },
+    {
+      "id": 3,
+      "prompt": "围绕 DGT/DCB/Se 形态帮我设计一篇数据文章的变量提取框架。",
+      "expected_output": "A variable extraction framework with inclusion/exclusion criteria, fields for Se dose/form, DGT, DCB, BCR or Se fractionation, pH/Eh, Fe indicators, grain Se/Cd/As, yield, water management, derived outcomes, and quality-control rules.",
+      "files": []
+    }
+  ]
+}
