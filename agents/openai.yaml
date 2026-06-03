@@ -1,0 +1,7 @@
+interface:
+  display_name: "Se-Cd-Fe Iron Plaque Research Radar"
+  short_description: "Track Se-Cd-Fe rice iron-plaque papers, methods, experiments, and thesis ideas."
+  default_prompt: "Use $se-cd-iron-plaque-research-radar to create a weekly radar report for rice Se-Cd-Fe iron-plaque and SynCom research."
+
+policy:
+  allow_implicit_invocation: true
